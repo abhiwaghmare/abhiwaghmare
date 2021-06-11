@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Engineering**[T.E.] from **VESIT Mumbai**.
 - 🌱 I'm currently working on improving my **Web devlopement** skills.
-- 💻 I'm looking for an **internship** in **Machine Learning** domain.
+- 💻 I'm looking for an **internship** in **Machine Learning** and **web development** domain.
 - 🤝🏻I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 2020 Goals: Contribute more to Open Source projects.
 - 📌 Scroll down to see my **Pinned Repositories**.
